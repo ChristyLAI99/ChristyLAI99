@@ -7,7 +7,7 @@ Through my master’s program, I’ve been building technical capabilities in R
 programming, Power BI, and data visualization. 
 
 - 🔭 I’m currently working on intern project with The Kids.
-- 🌱 I’m currently learning Business Analytics.
+- 🌱 I’m currently learning introduction of foresting, machine learning and creating R package.
 - 📫 How to reach me: christylwh99@gmail.com
 - 😄 Pronouns: She/Her/Hers
 
