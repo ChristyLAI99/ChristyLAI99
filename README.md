@@ -9,7 +9,7 @@ programming, Power BI, and data visualization.
 - 🔭 I’m currently working on intern project with The Kids.
 - 🌱 I’m currently learning introduction of foresting, machine learning and creating R package.
 - 📫 How to reach me: christylwh99@gmail.com
-- 😄 Pronouns: She/Her/Hers
+- 😄 Pronouns: She/Her
 
 Beyond academics, I’m passionate about living a balanced and joyful life. 
 - I’m an animal lover who enjoys spending time with cats 🐱and dogs🐶
