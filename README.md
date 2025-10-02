@@ -12,9 +12,9 @@ programming, Power BI, and data visualization.
 - 😄 Pronouns: She/Her/Hers
 
 Beyond academics, I’m passionate about living a balanced and joyful life. 
-I’m an animal lover who enjoys spending time with cats 🐱and dogs🐶
-A gamer who loves immersive storytelling🎮
-A music enthusiast🎶
-A hiker who finds peace in nature🏔
+- I’m an animal lover who enjoys spending time with cats 🐱and dogs🐶
+- A gamer who loves immersive storytelling🎮
+- A music enthusiast🎶
+- A hiker who finds peace in nature🏔
 
 I’m excited to continue learning, growing, and connecting with others!☺️
